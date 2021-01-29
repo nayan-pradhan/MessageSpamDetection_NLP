@@ -1,1 +1,1 @@
-# EmailSpamDetection_NLP
+# MessageSpamDetection_NLP
